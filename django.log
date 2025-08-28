@@ -1,0 +1,5 @@
+Watching for file changes with StatReloader
+[28/Aug/2025 06:21:17] "GET /api/health/ HTTP/1.1" 200 15
+Bad Request: /api/reason/
+[28/Aug/2025 06:21:21] "POST /api/reason/ HTTP/1.1" 400 73
+[28/Aug/2025 06:21:23] "POST /api/reason/ HTTP/1.1" 200 624
